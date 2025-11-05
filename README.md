@@ -35,4 +35,4 @@ Data files are received via FTP, processed using SSIS packages, and loaded into 
 ## 📬 Author
 **Kolkar Azaz**  
 📧 kolkarazaz8@gmail.com  
-🔗 [https://www.linkedin.com/in/kolkarazaz/](#) | [GitHub](#)
+🔗 [https://www.linkedin.com/in/kolkarazaz/](#) | [https://github.com/Kolkarazaz](#) |
